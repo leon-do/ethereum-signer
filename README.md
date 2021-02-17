@@ -2,4 +2,4 @@
 
 sign raw transactions offline
 
-![](https://user-images.githubusercontent.com/19412160/108141357-92c6c100-7091-11eb-9bdf-407812169035.png)
+![](https://user-images.githubusercontent.com/19412160/108141892-a1fa3e80-7092-11eb-9137-4df337fb8975.png)
