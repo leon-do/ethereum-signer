@@ -1,2 +1,3 @@
-# ethereum-signer-ethereumjs-tx
-sign raw transactions
+# Ethereum Signer
+
+signs raw transactions
